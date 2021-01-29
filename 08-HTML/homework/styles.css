@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://c8.alamy.com/compes/2bmrmek/vector-patron-sin-costuras-con-verduras-dibujadas-a-mano-y-electrodomesticos-de-cocina-fondo-unico-de-la-cocina-de-fideos-para-scrapbooking-digital-fondos-de-pantalla-web-2bmrmek.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color:seagreen;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: beige;
+    padding: 50px;
+    border: 4px dotted;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
